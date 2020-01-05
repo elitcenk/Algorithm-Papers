@@ -20,7 +20,7 @@ A.S. Mohammed, Ş.E. Amrahov, F.V. Çelebi, Bidirectional Conditional Insertion 
 
 - Showed that performance increased with the change of the position of conditional operation in BS algorithm. In algorithms, it is possible to achieve better performance by checking the situation that is most likely to come first.
 
-![alt text](https://github.com/elitcenk/Algorithm-Papers/blob/master/BQS_ITS.PNG)
+![alt text](https://github.com/elitcenk/Algorithm-Papers/blob/master/BQS_ITS.png)
 
 - Proposed new efficient ITS algorithm by extending TS algorithm. ITS algorithm is faster than correct binary search. Reducing the number of comparisons per iteration.
 
